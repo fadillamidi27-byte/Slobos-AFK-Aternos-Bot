@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "trainonme1",
+    "username": "trainonme",
     "password": "",
     "type": "online"
   },
@@ -69,7 +69,7 @@
     "auto-eat": true
   },
   "beds": {
-    "pick-up-day": truee,
+    "pick-up-day": true,
     "place-night": true
   },
   "discord": {
